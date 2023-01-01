@@ -2,5 +2,7 @@
 
 [2.)Combination Sum with a twist](https://leetcode.com/problems/combination-sum-iii/)
 
+[3.)Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+
 
 
