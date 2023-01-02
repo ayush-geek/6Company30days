@@ -6,4 +6,6 @@
 
 [5.)Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 
+[7.)Scheduling a Course](https://leetcode.com/problems/course-schedule/)
+
 
