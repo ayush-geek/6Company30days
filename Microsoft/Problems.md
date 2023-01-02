@@ -8,4 +8,5 @@
 
 [7.)Scheduling a Course](https://leetcode.com/problems/course-schedule/)
 
+[10.)Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 
