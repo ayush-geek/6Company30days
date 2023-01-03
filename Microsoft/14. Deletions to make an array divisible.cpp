@@ -8,7 +8,8 @@ public:
 
     int minOperations(vector<int>& nums, vector<int>& numsDivide) {
         
-
+        
+        //Submission:->https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/submissions/870560397/
         //Finding Gcd of Nums Divide
 
         int a=numsDivide[0];
