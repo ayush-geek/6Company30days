@@ -12,6 +12,8 @@
 
 [10.)Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 
+[11.) Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
 [13.)Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/)
 
 [14.)Deletions to make an array divisible.](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
