@@ -14,6 +14,8 @@
 
 [8.)Profitable Path in a Tree.](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
 
+[9.)Number of Pairs satisfying Inequality.](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+
 [10.)Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 
 [11.) Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
