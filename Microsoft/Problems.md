@@ -8,6 +8,8 @@
 
 [5.)Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 
+[6.)How to find a perfect Rectangle.](https://leetcode.com/problems/perfect-rectangle/)
+
 [7.)Scheduling a Course](https://leetcode.com/problems/course-schedule/)
 
 [10.)Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
