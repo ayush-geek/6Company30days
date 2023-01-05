@@ -12,6 +12,8 @@
 
 [7.)Scheduling a Course](https://leetcode.com/problems/course-schedule/)
 
+[8.)Profitable Path in a Tree.](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
+
 [10.)Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 
 [11.) Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
